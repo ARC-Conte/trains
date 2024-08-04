@@ -3,17 +3,15 @@
                 text-align: center;
                 
                 display: flex;
-  justify-content: center;
   align-items: center;
-  height: 372px;
 
             }
             input{
                 width: 82px;
             }
         </style>
-    </head>
-    <body>
+    
+    
     <table>
         <thead>
             <tr>
