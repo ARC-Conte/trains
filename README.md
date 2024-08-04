@@ -108,8 +108,6 @@
                     </select>
                 </td>
             </tr>
-        </tbody>
-    </table>
             <table>
         <thead>
             <tr>
