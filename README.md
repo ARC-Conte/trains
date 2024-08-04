@@ -1,18 +1,4 @@
-        <style>
-            body{
-                text-align: center;
-                
-                display: flex;
-  align-items: center;
-
-            }
-            input{
-                width: 82px;
-            }
-        </style>
-    
-    
-    <table>
+   <table>
         <thead>
             <tr>
                 <th>Engine</th>
@@ -421,7 +407,4 @@
                         <option>engine</option>
                     </select>
                 </td>
-            </tr>
-            
-        </tbody>
-    </table>
+            </tr>            
