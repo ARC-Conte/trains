@@ -2,8 +2,6 @@
             <div id="sign-in-form">
                 <input id="name">
                 <button onClick="check()">sign in</button>
-            </div>
-        </div>
 <script>
     function check (){
             if(document.getElementById("name").value==="ARCoder"){
