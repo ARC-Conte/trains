@@ -2,7 +2,7 @@
   <tr>
     <th>Engine</th>
     <th>At</th>
-    <th>Repear<br>Destination</th>
+    <th>Repair<br>Destination</th><th>Notes</th>
   </tr>
 </thead> <tbody>     <tr>
         <td><input></td> <td>     <select> <option>bp</option> <option>mill</option> <option>engine</option> <option>staiton</option> <option> </option></select> </td> <td>     <select> <option>bp</option> <option>mill</option> <option>engine</option> <option>staiton</option> <option> </option></select> </td>     <td><input></td></tr>
